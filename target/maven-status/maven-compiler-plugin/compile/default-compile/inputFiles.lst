@@ -1,0 +1,16 @@
+C:\Users\Squale\source\repos\character-builder\src\main\java\com\squale\characterbuilder\api\dtos\PlayerCharacterDTO.java
+C:\Users\Squale\source\repos\character-builder\src\main\java\com\squale\characterbuilder\model\PlayerCharacter.java
+C:\Users\Squale\source\repos\character-builder\src\main\java\com\squale\characterbuilder\CharacterBuilderApplication.java
+C:\Users\Squale\source\repos\character-builder\src\main\java\com\squale\characterbuilder\db\PlayerCharacterRepository.java
+C:\Users\Squale\source\repos\character-builder\src\main\java\com\squale\characterbuilder\SwaggerConfig.java
+C:\Users\Squale\source\repos\character-builder\src\main\java\com\squale\characterbuilder\api\dtos\ItemModifierDTO.java
+C:\Users\Squale\source\repos\character-builder\src\main\java\com\squale\characterbuilder\api\requestmodels\PlayerCharacterRequestModel.java
+C:\Users\Squale\source\repos\character-builder\src\main\java\com\squale\characterbuilder\db\InMemoryPlayerCharacterRepository.java
+C:\Users\Squale\source\repos\character-builder\src\main\java\com\squale\characterbuilder\service\ItemRarity.java
+C:\Users\Squale\source\repos\character-builder\src\main\java\com\squale\characterbuilder\api\dtos\ItemDTO.java
+C:\Users\Squale\source\repos\character-builder\src\main\java\com\squale\characterbuilder\model\ItemModifier.java
+C:\Users\Squale\source\repos\character-builder\src\main\java\com\squale\characterbuilder\service\ItemModifierType.java
+C:\Users\Squale\source\repos\character-builder\src\main\java\com\squale\characterbuilder\model\Item.java
+C:\Users\Squale\source\repos\character-builder\src\main\java\com\squale\characterbuilder\api\PlayerCharacterController.java
+C:\Users\Squale\source\repos\character-builder\src\main\java\com\squale\characterbuilder\service\PlayerCharacterService.java
+C:\Users\Squale\source\repos\character-builder\src\main\java\com\squale\characterbuilder\SwaggerConfigurationProperties.java

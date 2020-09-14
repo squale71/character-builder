@@ -1,0 +1,17 @@
+com\squale\characterbuilder\CharacterBuilderApplication.class
+com\squale\characterbuilder\model\Item.class
+com\squale\characterbuilder\api\requestmodels\PlayerCharacterRequestModel.class
+com\squale\characterbuilder\service\PlayerCharacterService$1.class
+com\squale\characterbuilder\api\dtos\ItemDTO.class
+com\squale\characterbuilder\api\dtos\ItemModifierDTO.class
+com\squale\characterbuilder\api\dtos\PlayerCharacterDTO.class
+com\squale\characterbuilder\service\ItemModifierType.class
+com\squale\characterbuilder\db\PlayerCharacterRepository.class
+com\squale\characterbuilder\SwaggerConfigurationProperties.class
+com\squale\characterbuilder\service\ItemRarity.class
+com\squale\characterbuilder\api\PlayerCharacterController.class
+com\squale\characterbuilder\SwaggerConfig.class
+com\squale\characterbuilder\model\PlayerCharacter.class
+com\squale\characterbuilder\service\PlayerCharacterService.class
+com\squale\characterbuilder\model\ItemModifier.class
+com\squale\characterbuilder\db\InMemoryPlayerCharacterRepository.class

@@ -32,3 +32,4 @@ I also want to add some docker containerization and orchestration to it to make 
   1. The system is set up to allow for the addition of many different modifier types, but currently there are only two.
   1. Right now each item will only have one modifier attached. I expect it would be cool if certain rarities of items could have more modifiers (like in Diablo).
 1. Hit Points is currently incomplete. The intention was to compute a character's available hit points based on the gear they are wearing. The modifiers would influence that number. So the work is started, it's just not finished yet. One day...
+1. This is just an API. It's intended to be consumed by an SPA or possibly a game of some type.

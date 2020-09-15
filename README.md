@@ -20,7 +20,7 @@ The application can be run on `localhost:8080`.
 I've set up Swagger UI to make it easier to consume the endpoints in the application. It can be accessed by navigating to `http://localhost:8080/swagger-ui.html`
 
 # Developer Notes
-This is just a very basic Spring Boot application that I got running. I've set up the application in an n-tiered approach, taking full advantage of the Spring Framework's DI capabilities. 
+I've set up the application in an n-tiered approach, taking full advantage of the Spring Framework's DI capabilities. 
 The database is an in memory database currently, but it's extremely easy to swap it out for another one, and I plan on experimenting with MongoDB next.
 
 I also want to add some docker containerization and orchestration to it to make setting up the dev environment and potential dependencies easily, but we'll dodge that bullet when we get to it.

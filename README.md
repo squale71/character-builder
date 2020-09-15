@@ -7,8 +7,8 @@ A simple API that allows for the creation and management of a party of character
 This application is extremely basic currently, but I plan to add more to it, and eventually create a consuming client to consume the API.
 
 Dependencies:
-Java 8 and Java SE 8u261
-Apache Maven 3.6.3
+1.Java 8 and Java SE 8u261
+1.Apache Maven 3.6.3
 
 1. Clone repository
 1. Add the Maven bin directory to `PATH` variable

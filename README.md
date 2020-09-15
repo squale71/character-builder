@@ -23,7 +23,7 @@ I've set up Swagger UI to make it easier to consume the endpoints in the applica
 I've set up the application in an n-tiered approach, taking full advantage of the Spring Framework's DI capabilities. 
 The database is an in memory database currently, but it's extremely easy to swap it out for another one, and I plan on experimenting with MongoDB next.
 
-I also want to add some docker containerization and orchestration to it to make setting up the dev environment and potential dependencies easily, but we'll dodge that bullet when we get to it.
+I also want to add some docker containerization and orchestration to it to make setting up the dev environment and potential dependencies easier.
 
 # Limitations
 1. Like I mentioned above, this is using an in memory database to persist character data. With that said, it's extremely simple using the power of DI to set up a specific database implementation and use that instead.

@@ -30,6 +30,6 @@ I also want to add some docker containerization and orchestration to it to make 
 1. Loot Generation is...bare bones. The array of possible items is hardcoded in memory as well, and it's a relatively small list.
 1. Each item you randomly loot will generate an item with a random name and modifier attached to it. The rarity of the item (also random) will determine the "strength" of the modifier. More rare items will have better modifiers.
   1. The system is set up to allow for the addition of many different modifier types, but currently there are only two.
-  1. Right now each item will only have one modifier attached. I expect it would be cool if certain rarities of items could have more modifiers (like in Diablo).
-1. Hit Points is currently incomplete. The intention was to compute a character's available hit points based on the gear they are wearing. The modifiers would influence that number. So the work is started, it's just not finished yet. One day...
-1. This is just an API. It's intended to be consumed by an SPA or possibly a game of some type.
+  1. Right now each item will only have one modifier attached. I expect it would be cool if certain rarities of items could have more modifiers (like in Diablo). That's why items have an array of modifiers.
+1. Hit Point functionality is currently incomplete. The intention was to compute a character's available hit points based on the gear they are wearing. The modifiers would influence that number. So the work is started, it's just not finished yet. One day...
+1. This is just an REST API. It's intended to be consumed by an SPA or possibly a game of some type.
